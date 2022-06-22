@@ -14,7 +14,7 @@
     "handlebars": "^3.0.3",
     "hbsfy": "^2.4.1",
     "jenkins-handlebars-rt": "^1.0.1",
-    "jenkins-js-builder": "0.0.40",
+    "jenkins-js-builder": "0.0.50",
     "jenkins-js-test": "^1.0.0",
     "gulp-less": "^3.1.0"
   },
